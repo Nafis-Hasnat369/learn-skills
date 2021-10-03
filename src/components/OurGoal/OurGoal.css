@@ -1,0 +1,13 @@
+.goals-container{
+    padding: 10px;
+    margin: 20px;
+}
+.goals-container h2{
+    color: mediumorchid;
+}
+.goal{
+    margin: 100px;
+}
+.goal h2{
+    color:rgb(255, 115, 0);
+}

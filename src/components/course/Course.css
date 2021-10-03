@@ -1,0 +1,11 @@
+.course{
+    padding: 4%;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+.course:hover{
+    box-shadow: 2px 1px 5px 5px cyan;
+}
+.course img{
+    width: 120px;
+}
