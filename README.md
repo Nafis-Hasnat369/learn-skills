@@ -1,3 +1,9 @@
+## Project name: build your skills with programming
+# About the project
+    It's a online based skill building website, where you can enroll your favourite courses and build up your skill..
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

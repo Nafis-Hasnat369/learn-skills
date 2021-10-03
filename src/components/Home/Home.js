@@ -17,6 +17,7 @@ const Home = () => {
     }
     return (
         <>
+            <br />
             <h2>CHOOSE YOUR COURSE</h2>
             <div className="courses container" >
                 {
@@ -28,7 +29,7 @@ const Home = () => {
             </div >
             <Extra />
             <div className="services" >
-                <button onClick={handleServices} className="btn-primary button">All course services...</button>
+                <button onClick={handleServices} className="btn-danger button">All course services...</button>
             </div>
         </>
     );

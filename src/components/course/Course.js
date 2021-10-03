@@ -7,7 +7,7 @@ const Course = props => {
             <img fluid src={img} alt="" />
             <h3>Course name: {name}</h3>
             <h4>Cost: {price}</h4>
-            <button className="btn-primary">Buy now</button>
+            <button className="btn-primary btn-learn">Learn more</button>
         </div>
     );
 };
