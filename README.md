@@ -2,7 +2,7 @@
 # About the project
    ## 1. It's a online based skill building website,
    ## 2. where you can enroll your favourite courses and build up your skill..
-   ## 3. The projects shows different kind of skills we should learn.
+   ## 3. The projects shows different kind of skills you should learn.
 
 
 # Getting Started with Create React App
