@@ -18,7 +18,8 @@ const Home = () => {
     return (
         <>
             <br />
-            <h2>CHOOSE YOUR COURSE</h2>
+            <h1 className="welcome">Welcome to build skills</h1>
+            <h3>CHOOSE YOUR COURSE</h3>
             <div className="courses container" >
                 {
                     courses.map(course => <Course

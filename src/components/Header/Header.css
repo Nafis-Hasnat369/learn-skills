@@ -1,5 +1,10 @@
 /* Style sheet in header */
 
+.welcome-text{
+    background-color:black;
+    color:white;
+}
+
 .header{
     background-image: url('../../images/background.jpg');
     background-repeat: no-repeat;
