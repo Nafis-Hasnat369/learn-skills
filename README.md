@@ -1,12 +1,12 @@
 # Project name: build your skills with programming
 # About the project
-   ## 1. It's a online based skill building website,
-   ## 2. where you can enroll your favourite courses and build up your skill..
-   ## 3. The projects shows different kind of skills you should learn.
+    1. It's a online based skill building website,
+    2. where you can enroll your favourite courses and build up your skill..
+    3. The projects shows different kind of skills you should learn.
 
 
 # Getting Started with Create React App
-# Live site [link](https://build-your-skills.netlify.app/)
+# Build your skills live site [link](https://build-your-skills.netlify.app/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
