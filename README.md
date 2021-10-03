@@ -1,9 +1,8 @@
 # Project name: build your skills with programming
 # About the project
-   ## It's a online based skill building website,
-   ## where you can enroll your favourite courses and build up your skill..
-   ## The projects shows different kind of skills we should learn.
-
+   ## 1. It's a online based skill building website,
+   ## 2. where you can enroll your favourite courses and build up your skill..
+   ## 3. The projects shows different kind of skills we should learn.
 
 
 # Getting Started with Create React App
