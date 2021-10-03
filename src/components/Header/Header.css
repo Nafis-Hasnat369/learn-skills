@@ -1,0 +1,39 @@
+/* Style sheet in header */
+
+.header{
+    background-image: url('https://media.istockphoto.com/photos/abstract-technical-surface-picture-id1176400518?b=1&k=20&m=1176400518&s=170667a&w=0&h=iVjcx383dZqcTKXgKA-Y4l1npVns4fmeyrZMoSWICF8=');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    text-align: center;
+}
+
+.header nav{
+    text-align: right;
+    margin-right: 5%;
+    padding: 20px;
+}
+
+.header nav a{
+    text-decoration: none;
+    color: white;
+    margin-left: 2%;
+}
+.nav-bar{
+    margin-top: 5%;
+}
+.nav-bar a{
+    padding: 10px;
+    border-radius: 10px;
+}
+.nav-bar a:hover{
+    background-color: rgb(82, 81, 81);
+}
+
+/* logo style */
+
+.logo img{
+    height: 30%;
+}
