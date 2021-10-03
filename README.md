@@ -1,6 +1,8 @@
 ## Project name: build your skills with programming
 # About the project
-    It's a online based skill building website, where you can enroll your favourite courses and build up your skill..
+   # It's a online based skill building website,
+   # where you can enroll your favourite courses and build up your skill..
+   # The projects shows different kind of skills we should learn.
 
 
 
