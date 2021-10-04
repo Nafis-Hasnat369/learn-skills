@@ -10,6 +10,9 @@ const Header = () => {
         <div className="header">
             <div className="logo">
                 <img src="https://i.pinimg.com/originals/c2/a9/c9/c2a9c9621175a6f04804d0d192a787b0.png" alt="" />
+                <h1>Connect With Our Experts And
+                    Start Learning Today
+                </h1>
             </div>
             <div>
                 <nav className="nav-bar">

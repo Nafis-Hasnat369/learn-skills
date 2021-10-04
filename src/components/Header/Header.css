@@ -11,7 +11,7 @@
     background-size: cover;
     height: 60vh;
     display: grid;
-    grid-template-columns: 1fr 4fr;
+    grid-template-columns: 2fr 2fr;
     text-align: center;
 }
 
@@ -41,4 +41,8 @@
 
 .logo img{
     height: 30%;
+}
+.logo h1{
+    color: rgb(0, 255, 234);
+    margin-left: 10%;
 }

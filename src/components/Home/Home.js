@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useHistory } from 'react-router';
 import Course from '../course/Course';
 import Extra from '../Extara/Extra';
+import Questions from '../Questions/Questions';
 import './Home.css';
 const Home = () => {
     const [courses, setCources] = useState([]);
@@ -29,6 +30,7 @@ const Home = () => {
                 }
             </div >
             <Extra />
+            <Questions />
             <div className="services" >
                 <button onClick={handleServices} className="btn-danger button">All course services...</button>
             </div>

@@ -1,0 +1,19 @@
+.question-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 5%;
+    background-color: lightcoral ;
+    border-radius: 20px;
+    margin: 10%;
+    padding: 5%;
+}
+.cover-img img{
+    width: 100%;
+    border-radius: 20px;
+}
+.text h4{
+    color: blue;
+}
+.text h2{
+    color: cyan;
+}
